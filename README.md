@@ -2,10 +2,6 @@
 
 A comparative natural language processing project evaluating traditional machine learning pipelines against pre-trained Large Language Models (LLMs) for multi-language text classification.
 
-## 👥 Project Team
-- Course: Natural Language Processing[span_0](start_span)[span_0](end_span)
-- Instructor: Dr. Ghada Alharbi[span_1](start_span)[span_1](end_span)
-- Team Members: Nada Alsuhaimi, Rama Hamed Alhasainy, Raneem Almukhlifi, Rehab Alharbi[span_2](start_span)[span_2](end_span)
 
 ## 📊 Overview
 The goal of this project is to identify the language of a given text input across five target languages: **English, Spanish, French, Japanese, and Russian**[span_3](start_span)[span_3](end_span). We compared two distinct approaches using a 22,000-instance dataset sourced from WiLI-2018 (Wikipedia via Kaggle)[span_4](start_span)[span_4](end_span):
